@@ -24,3 +24,13 @@ in the next part i had added the lm393 comparator which compares light intensity
 <img width="472" height="353" alt="image" src="https://github.com/user-attachments/assets/65639cad-7f0e-4ff7-9b1f-b50eca9f477c" />
 
 ------
+# date:12/8
+# time spent:1.5hr
+## description:
+Now i hadda added a real time clock DS1307 in the circuit and then i had added a 32.768 kHz watch crystal,and added an LIS3DH accelerometer to detect physical movement.For audible alerts, i added a transistor driver using an 2N3904 to switch a 3.3V active buzzer.
+# images:
+<img width="507" height="249" alt="image" src="https://github.com/user-attachments/assets/58f55b05-a2b7-4fa5-ac7f-3a3a74542d2e" />
+<img width="837" height="588" alt="image" src="https://github.com/user-attachments/assets/d9cfc012-2fda-450f-936c-4c8c1de1f3c8" />
+<img width="783" height="611" alt="image" src="https://github.com/user-attachments/assets/d5f0a413-5b91-4480-bdd6-9b1f9a8c8d0f" />
+
+------
