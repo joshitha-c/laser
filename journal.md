@@ -34,3 +34,13 @@ Now i hadda added a real time clock DS1307 in the circuit and then i had added a
 <img width="783" height="611" alt="image" src="https://github.com/user-attachments/assets/d5f0a413-5b91-4480-bdd6-9b1f9a8c8d0f" />
 
 ------
+# date:12/8
+# time spent:1hr
+## description:
+I had added a batter connector pin for the battery part and then i had connected it to the c3 controller and then ran the electric rule checker, from them i had got over 20 errors,which i had fixed all of them and ignored the warnings
+# images:
+<img width="677" height="373" alt="image" src="https://github.com/user-attachments/assets/ad003879-274b-4bd0-9f9f-d51640bfd33b" />
+<img width="441" height="476" alt="image" src="https://github.com/user-attachments/assets/46f212d8-44f4-4a0c-9df0-b9c18d2c0938" />
+<img width="709" height="677" alt="image" src="https://github.com/user-attachments/assets/1a3cdcb8-8cd3-4fca-860f-5538fa92b58f" />
+
+------
