@@ -72,4 +72,12 @@ I had started wiring the whole pcb and started with the ground connections and t
 <img width="1579" height="889" alt="image" src="https://github.com/user-attachments/assets/524ff6f9-d9c4-4449-b1fe-ea38969d7b76" />
 
 ------
+# date:13/8
+# time spent0.75hr
+## description:
+I had ran the erc checker and fixed all the errors and then i had ignored the warning.
+# images:
 <img width="820" height="794" alt="image" src="https://github.com/user-attachments/assets/7d487a52-d860-4b22-9a26-0077168144d2" />
+<img width="814" height="757" alt="image" src="https://github.com/user-attachments/assets/23b431f7-3faf-4dff-8832-2c6b2ef12cf5" />
+
+------
