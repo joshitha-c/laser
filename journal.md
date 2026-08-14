@@ -44,3 +44,22 @@ I had added a batter connector pin for the battery part and then i had connected
 <img width="709" height="677" alt="image" src="https://github.com/user-attachments/assets/1a3cdcb8-8cd3-4fca-860f-5538fa92b58f" />
 
 ------
+# date:12/8
+# time spent:0.5hr
+## description:
+I had checked the footprints of each part in mouser.in and then addded them in the footprints section and after updating them to the pcb there were few eerrors on mismatched footprints ,so i had fixed all the errors.
+# images:
+<img width="1656" height="889" alt="image" src="https://github.com/user-attachments/assets/5d1ed896-6a6a-4d93-a9d0-1acb8e117b0a" />
+<img width="675" height="335" alt="image" src="https://github.com/user-attachments/assets/e1083a45-56c2-43c4-bf61-21e168f82372" />
+<img width="1653" height="877" alt="image" src="https://github.com/user-attachments/assets/e25e9997-880f-4269-bb51-5c676c6d1e46" />
+<img width="755" height="691" alt="image" src="https://github.com/user-attachments/assets/107ea77b-fd3d-4e64-838c-02e6bbb28e69" />
+
+------
+# date:13/8
+# time spent:0.75hr
+## description:
+I had arranged all the parts in a order for the pcb and then i had made an edge cuts for the pcb layout.
+# images:
+<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/7fda348b-83ec-4ccb-8ae8-7f7858578615" />
+
+------
