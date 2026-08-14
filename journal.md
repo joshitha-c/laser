@@ -63,3 +63,13 @@ I had arranged all the parts in a order for the pcb and then i had made an edge 
 <img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/7fda348b-83ec-4ccb-8ae8-7f7858578615" />
 
 ------
+# date:13/8
+# time spent2hr
+## description:
+I had started wiring the whole pcb and started with the ground connections and then completed the remaining,the first 50% was pretty easya nd the rest for difficult because we have to use vias and then route the pcb.
+# images:
+<img width="813" height="787" alt="image" src="https://github.com/user-attachments/assets/8a2dfea7-fb2c-480d-b855-5ad561bbc647" />
+<img width="1579" height="889" alt="image" src="https://github.com/user-attachments/assets/524ff6f9-d9c4-4449-b1fe-ea38969d7b76" />
+
+------
+<img width="820" height="794" alt="image" src="https://github.com/user-attachments/assets/7d487a52-d860-4b22-9a26-0077168144d2" />
