@@ -81,3 +81,14 @@ I had ran the erc checker and fixed all the errors and then i had ignored the wa
 <img width="814" height="757" alt="image" src="https://github.com/user-attachments/assets/23b431f7-3faf-4dff-8832-2c6b2ef12cf5" />
 
 ------
+# date:13/8
+# time spent0.75hr
+## description:
+To simulate the laser beam and show them i had starting making an online simulator for the laser beam and like how will it be working ,now i had made an diagram.json file in the wokwi simulator and then addded all the libraries to it.
+# images:
+<img width="935" height="772" alt="image" src="https://github.com/user-attachments/assets/3b7a62cd-fbfe-463b-9d76-927b6dbcfae1" />
+<img width="958" height="565" alt="image" src="https://github.com/user-attachments/assets/83dfd12c-5513-4405-9128-76cec50f3214" />
+<img width="958" height="814" alt="image" src="https://github.com/user-attachments/assets/577063bc-12a0-487b-a71b-a8989cde18c2" />
+
+
+------
