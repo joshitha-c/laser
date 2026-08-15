@@ -92,3 +92,12 @@ To simulate the laser beam and show them i had starting making an online simulat
 
 
 ------
+# date:14/8
+# time spent:2.5hr
+## description:
+I had started designing the device which simulates how will the device works when the laser is tripped off and then i added few features like the buttons which represents the laser tripped and then i have added the battery feature which tells the battery and added the time which acts like a clock and you can check whether it is armed or disarmed in the simulator
+# images:
+<img width="619" height="529" alt="image" src="https://github.com/user-attachments/assets/34c92cca-0b89-44ea-b03e-e68b8b5154ea" />
+<img width="234" height="185" alt="image" src="https://github.com/user-attachments/assets/d4ef3fa6-b7d6-4184-88ed-8c7effe6d427" />
+
+------
