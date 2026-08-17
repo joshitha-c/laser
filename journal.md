@@ -82,7 +82,7 @@ I had ran the erc checker and fixed all the errors and then i had ignored the wa
 
 ------
 # date:13/8
-# time spent0.75hr
+# time spent:1hr
 ## description:
 To simulate the laser beam and show them i had starting making an online simulator for the laser beam and like how will it be working ,now i had made an diagram.json file in the wokwi simulator and then addded all the libraries to it.
 # images:
@@ -93,7 +93,7 @@ To simulate the laser beam and show them i had starting making an online simulat
 
 ------
 # date:14/8
-# time spent:2.5hr
+# time spent:2.75hr
 ## description:
 I had started designing the device which simulates how will the device works when the laser is tripped off and then i added few features like the buttons which represents the laser tripped and then i have added the battery feature which tells the battery and added the time which acts like a clock and you can check whether it is armed or disarmed in the simulator
 # images:
@@ -101,3 +101,10 @@ I had started designing the device which simulates how will the device works whe
 <img width="234" height="185" alt="image" src="https://github.com/user-attachments/assets/d4ef3fa6-b7d6-4184-88ed-8c7effe6d427" />
 
 ------
+# date:16/8
+# time: spent:0.25hrs
+## description:
+Created a readme file and add all the packagges to the github and also converted pcb files to gerber files
+
+-----
+# Total time:15hrs
